@@ -1,5 +1,6 @@
 # Credit-Risk-Modeling
-Probability of Default Model Using mython
+Probability of Default Model Using Python
+
 In recent years, finance officers and bankers have faced numerous challenges all over the world 
 on risks they are exposed to, such us compliance, operational and credit risk etc.…. The ability to 
 lend money to borrower/ debtor with or without information. Therefore, skills and tools to 

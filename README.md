@@ -1,6 +1,6 @@
 # Credit-Risk-Modeling
 Probability of Default Model Using Python
-NB:this is a basic logistic regession 
+NB:this is a basic logistic regression 
 
 In recent years, finance officers and bankers have faced numerous challenges all over the world 
 on risks they are exposed to, such us compliance, operational and credit risk etc.…. The ability to 

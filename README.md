@@ -2,7 +2,8 @@
 Probability of Default Model Using Python
 
 NB:This paper give a basic idea of data analysis and model development in credit risk development.
-an advanced paper will be released soon by adding , Weight of evidence , Information value for feature selection
+
+An advanced paper will be released soon by adding , Weight of evidence , Information value for feature selection
 
 #Abstract
 

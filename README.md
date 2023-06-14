@@ -1,5 +1,4 @@
 # Credit-Risk-Modeling
-Probability of Default Model Using Python
 
 NB:This paper give a basic idea of data analysis and model development in credit risk development.
 
